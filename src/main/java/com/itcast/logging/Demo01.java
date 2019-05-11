@@ -7,7 +7,9 @@ import org.apache.log4j.PropertyConfigurator;
 public class Demo01 {
 	private static Logger logger = Logger.getLogger(Demo01.class);  
     public static void main(String[] args) { 
+    	//采用默认的基本配置
 //    	BasicConfigurator.configure();
+    	//采用读取properties文件的方式。
 //    	PropertyConfigurator.configure("log4j.properties");
         // 记录debug级别的信息 
         logger.debug("This is debug message.");  
