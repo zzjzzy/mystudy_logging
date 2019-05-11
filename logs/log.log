@@ -1,0 +1,3 @@
+2019-05-11 11:01:14  [ main:0 ] - [ DEBUG ]  This is debug message.
+2019-05-11 11:01:14  [ main:3 ] - [ INFO ]  This is info message.
+2019-05-11 11:01:14  [ main:3 ] - [ ERROR ]  This is error message.
